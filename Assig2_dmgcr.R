@@ -1,5 +1,5 @@
 
-###1 makeCacheMatrix: This function creates a special "matrix" object than can cahe its inverse.
+###1 makeCacheMatrix: This function creates a special "matrix" object than can cache its inverse.
         
         #Set the value of the matrix
         makeCacheMatrix <-function (x=matrix()){
